@@ -1,12 +1,12 @@
 # GradeBook
 
-#### Video Demo: [PASTE YOUR LINK HERE]
+#### Video Demo: https://youtu.be/XdihMjRc9LY
 
 #### Description:
 
 GradeBook is a command-line program written in Python that works out my GPA. I type in my score for each course in a semester, and it shows my letter grades, my total credit units and my semester GPA out of 5.00. It saves my scores in a file, so I can come back later, look at them again, or fix one score without typing everything again. When a semester is finished, I can save it to a history file, and the program then works out my CGPA (cumulative GPA) across all my semesters.
 
-I made it because [WRITE YOUR OWN REASON HERE]. The courses in the program are my own semester courses, and the grading scale is the one my university uses: 70 and above is an A (5 points), 60 to 69 is a B (4), 50 to 59 is a C (3), 45 to 49 is a D (2), 40 to 44 is an E (1), and below 40 is an F (0).
+I made it because I used to work out my GPA by hand every semester, and with so many courses and different credit units it was easy to make mistakes. The courses in the program are my own semester courses, and the grading scale is the one my university uses: 70 and above is an A (5 points), 60 to 69 is a B (4), 50 to 59 is a C (3), 45 to 49 is a D (2), 40 to 44 is an E (1), and below 40 is an F (0).
 
 ## How to use it
 
